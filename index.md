@@ -1,4 +1,4 @@
-# Privacy Policy for MSFS Bridge for Microsoft Edge
+# Privacy Policy for MSFS Bridge for Microsoft Edge.
 
 MSFS Bridge receives simulated aircraft telemetry from the separately
 installed Windows Bridge application on the same computer. The extension
